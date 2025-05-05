@@ -25,6 +25,9 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress&logoColor=21759B)&nbsp;
+![Joomla](https://img.shields.io/badge/-Joomla-05122A?style=flat&logo=joomla&logoColor=5091CD)&nbsp;
+
 
 ---
 
