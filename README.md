@@ -46,4 +46,4 @@
 </p>
 
 ### 🤷🏻‍♂️ &nbsp;Nota random
-No es que sea antisocial, solo que eliminé casi todas mis redes... decisiones de programador xd
+No es que sea antisocial, solo que hace años eliminé casi todas mis redes... decisiones de programador xd
