@@ -33,9 +33,6 @@
 
 ### 🤝🏻 &nbsp;Mis redes
 
-### 🤷🏻‍♂️ &nbsp;Nota random
-No es que sea antisocial, solo que eliminé casi todas mis redes... decisiones de programador xd
-
 <p align="center">
   <a href="https://www.linkedin.com/in/marcoantonio-undefined-4919b5311/">
     <img src="https://img.shields.io/badge/-Marco%20Antonio-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
@@ -47,3 +44,6 @@ No es que sea antisocial, solo que eliminé casi todas mis redes... decisiones d
     <img src="https://img.shields.io/badge/-Steam%20(ya%20abandonado%20xd)-171A21?style=flat&logo=steam&logoColor=white"/>
   </a>
 </p>
+
+### 🤷🏻‍♂️ &nbsp;Nota random
+No es que sea antisocial, solo que eliminé casi todas mis redes... decisiones de programador xd
