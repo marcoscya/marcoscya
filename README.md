@@ -5,9 +5,8 @@
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
 💬 &nbsp;Desarrolador de Software🗿.\
-💡 &nbsp;Me apasiona la programación web, especialmente el desarrollo frontend, que es donde actualmente me especializo.\
-🚀 &nbsp;Aunque tengo conocimientos en bases de datos, mi enfoque principal está en el desarrollo web.\
-🔧 &nbsp;Mi meta es seguir creciendo como desarrollador y avanzar hacia el backend para convertirme en un desarrollador full stack.\
+💡 &nbsp;Me apasiona la programación y disfruto aprender constantemente. Tengo conocimientos en diversos lenguajes, herramientas, frameworks y plataformas, y me adapto con facilidad a distintos entornos de desarrollo.\
+🚀 &nbsp;Mi meta es seguir creciendo como desarrollador de software, creando aplicaciones funcionales, escalables y orientadas a brindar soluciones reales.\
 📧 &nbsp;Puedes contactarme a través de mi correo: **[markus080904@gmail.com](mailto:markus080904@gmail.com)**
 
 ---
