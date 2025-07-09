@@ -30,20 +30,3 @@
 
 
 ---
-
-### 🤝🏻 &nbsp;Mis redes
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/marcoantonio-undefined-4919b5311/">
-    <img src="https://img.shields.io/badge/-Marco%20Antonio-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://candidato.pe.computrabajo.com/candidate/home?idapp=3&f=FEE939887FF3D46C">
-    <img src="https://img.shields.io/badge/-Computrabajo-2F2F2F?style=flat&logo=briefcase&logoColor=white"/>
-  </a>
-  <a href="https://steamcommunity.com/profiles/76561199111093445/">
-    <img src="https://img.shields.io/badge/-Steam%20(ya%20abandonado%20xd)-171A21?style=flat&logo=steam&logoColor=white"/>
-  </a>
-</p>
-
-### 🤷🏻‍♂️ &nbsp;Nota random
-No es que sea antisocial, solo que hace años eliminé casi todas mis redes... decisiones de programador xd
