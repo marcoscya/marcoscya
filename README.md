@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-💬 &nbsp;Programador Web con ganas de aprender 🗿.\
+💬 &nbsp;Desarrolador de Software🗿.\
 💡 &nbsp;Me apasiona la programación web, especialmente el desarrollo frontend, que es donde actualmente me especializo.\
 🚀 &nbsp;Aunque tengo conocimientos en bases de datos, mi enfoque principal está en el desarrollo web.\
 🔧 &nbsp;Mi meta es seguir creciendo como desarrollador y avanzar hacia el backend para convertirme en un desarrollador full stack.\
